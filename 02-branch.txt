@@ -1,4 +1,5 @@
 === BRANCHING ===
 1. Membuat Git Branch
-2. Membuat snapshot tanpa menganggu jalur utama
+2. Membuat snapshot tanpa menganggu jalur utama (master branch)
 3. Fitur experimental
+4. 2 orang mengerjakan repo yang sama
