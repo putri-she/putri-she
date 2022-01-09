@@ -1,0 +1,4 @@
+=== BRANCHING ===
+1. Membuat Git Branch
+2. Membuat snapshot tanpa menganggu jalur utama
+3. Fitur experimental
